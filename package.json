@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/alpha-bytes/sf-extension#readme",
   "dependencies": {
+    "sf-extension": "^1.0.0",
     "yeoman-generator": "^5.7.0"
   }
 }
