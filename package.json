@@ -1,0 +1,30 @@
+{
+  "name": "sf-extension",
+  "version": "1.0.0",
+  "description": "Base class for all sf-extend classes",
+  "exports": {
+    ".": "./SfExtension.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpha-bytes/sf-extension.git"
+  },
+  "keywords": [
+    "sfdx",
+    "sf",
+    "sf-extend",
+    "salesforce cli"
+  ],
+  "author": "alpha-bytes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alpha-bytes/sf-extension/issues"
+  },
+  "homepage": "https://github.com/alpha-bytes/sf-extension#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.7.0"
+  }
+}
