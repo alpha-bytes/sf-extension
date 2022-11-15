@@ -1,6 +1,6 @@
 {
   "name": "sf-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base class for all sf-extend classes",
   "exports": {
     ".": "./SfExtension.js"
@@ -25,7 +25,9 @@
   },
   "homepage": "https://github.com/alpha-bytes/sf-extension#readme",
   "dependencies": {
-    "sf-extension": "^1.0.0",
     "yeoman-generator": "^5.7.0"
+  },
+  "peerDependencies": {
+    "sf-extend": "^1.2"
   }
 }
