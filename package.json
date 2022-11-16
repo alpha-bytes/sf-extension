@@ -1,6 +1,6 @@
 {
   "name": "sf-extension",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Base class for all sf-extend classes",
   "main": "SfExtension.js",
   "scripts": {
